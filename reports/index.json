@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260314-210941-re9r",
+      "title": "Lucana Dragonheart",
+      "commanders": [
+        "Lucana Dragonheart"
+      ],
+      "dateStart": "2026-03-15T01:09:41.000Z",
+      "dateEnd": "2026-03-15T02:40:16.000Z",
+      "dateLabel": "3/14/2026, 9:09:41 PM - 3/14/2026, 10:40:16 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260314-210941-re9r",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260307-210233-r9tf",
       "title": "Lucana Dragonheart",
       "commanders": [

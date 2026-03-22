@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260321-210900-ozqv",
+      "title": "Lucana Dragonheart, Ryza Fayth",
+      "commanders": [
+        "Lucana Dragonheart",
+        "Ryza Fayth"
+      ],
+      "dateStart": "2026-03-22T01:09:00.000Z",
+      "dateEnd": "2026-03-22T02:56:44.000Z",
+      "dateLabel": "3/21/2026, 9:09:00 PM - 3/21/2026, 10:56:44 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260321-210900-ozqv",
+      "summary": {
+        "borderlandsPct": 0.8125,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260314-210941-re9r",
       "title": "Lucana Dragonheart",
       "commanders": [

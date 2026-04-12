@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-205543-oh2i",
+      "title": "Gallagher Moonblade",
+      "commanders": [
+        "Gallagher Moonblade"
+      ],
+      "dateStart": "2026-04-12T00:55:43.000Z",
+      "dateEnd": "2026-04-12T01:55:56.000Z",
+      "dateLabel": "4/11/2026, 8:55:43 PM - 4/11/2026, 9:55:56 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260411-205543-oh2i",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260328-205600-t4g5",
       "title": "Ryza Fayth",
       "commanders": [

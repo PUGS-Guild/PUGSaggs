@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-221155-qubi",
+      "title": "Lucana Dragonheart",
+      "commanders": [
+        "Lucana Dragonheart"
+      ],
+      "dateStart": "2026-04-26T02:11:55.000Z",
+      "dateEnd": "2026-04-26T03:06:39.000Z",
+      "dateLabel": "4/25/2026, 10:11:55 PM - 4/25/2026, 11:06:39 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260425-221155-qubi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260425-221155-dvdj",
       "title": "Lucana Dragonheart",
       "commanders": [

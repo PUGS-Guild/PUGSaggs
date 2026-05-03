@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-210518-heb0",
+      "title": "Hunhildr, Lucana Dragonheart",
+      "commanders": [
+        "Hunhildr",
+        "Lucana Dragonheart"
+      ],
+      "dateStart": "2026-05-03T01:05:18.000Z",
+      "dateEnd": "2026-05-03T02:50:57.000Z",
+      "dateLabel": "5/2/2026, 9:05:18 PM - 5/2/2026, 10:50:57 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260502-210518-heb0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260425-221155-qubi",
       "title": "Lucana Dragonheart",
       "commanders": [

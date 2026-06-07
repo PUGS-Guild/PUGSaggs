@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-214156-1m6n",
+      "title": "Gallagher Moonblade",
+      "commanders": [
+        "Gallagher Moonblade"
+      ],
+      "dateStart": "2026-06-07T01:41:56.000Z",
+      "dateEnd": "2026-06-07T03:07:19.000Z",
+      "dateLabel": "6/6/2026, 9:41:56 PM - 6/6/2026, 11:07:19 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260606-214156-1m6n",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260530-215634-mdt2",
       "title": "Lileas Sunray",
       "commanders": [

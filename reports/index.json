@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260613-222529-ww7e",
+      "title": "Squire Donovan",
+      "commanders": [
+        "Squire Donovan"
+      ],
+      "dateStart": "2026-06-14T02:25:29.000Z",
+      "dateEnd": "2026-06-14T03:05:04.000Z",
+      "dateLabel": "6/13/2026, 10:25:29 PM - 6/13/2026, 11:05:04 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260613-222529-ww7e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260606-214156-1m6n",
       "title": "Gallagher Moonblade",
       "commanders": [

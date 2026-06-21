@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260620-222159-ab11",
+      "title": "Lileas Sunray",
+      "commanders": [
+        "Lileas Sunray"
+      ],
+      "dateStart": "2026-06-21T02:21:59.000Z",
+      "dateEnd": "2026-06-21T03:18:21.000Z",
+      "dateLabel": "6/20/2026, 10:21:59 PM - 6/20/2026, 11:18:21 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260620-222159-ab11",
+      "summary": {
+        "borderlandsPct": 0.7391304347826086,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260613-222529-ww7e",
       "title": "Squire Donovan",
       "commanders": [

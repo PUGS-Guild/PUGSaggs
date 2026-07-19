@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260718-210528-2r6s",
+      "title": "Lileas Sunray",
+      "commanders": [
+        "Lileas Sunray"
+      ],
+      "dateStart": "2026-07-19T01:05:28.000Z",
+      "dateEnd": "2026-07-19T02:29:58.000Z",
+      "dateLabel": "7/18/2026, 9:05:28 PM - 7/18/2026, 10:29:58 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260718-210528-2r6s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260711-214036-wpcf",
       "title": "Gallagher Moonblade",
       "commanders": [

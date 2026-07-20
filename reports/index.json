@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260719-212741-6vv6",
+      "title": "Ilomay, Mylo Da Reaper",
+      "commanders": [
+        "Ilomay",
+        "Mylo Da Reaper"
+      ],
+      "dateStart": "2026-07-20T01:27:41.000Z",
+      "dateEnd": "2026-07-20T02:39:36.000Z",
+      "dateLabel": "7/19/2026, 9:27:41 PM - 7/19/2026, 10:39:36 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260719-212741-6vv6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260718-210528-2r6s",
       "title": "Lileas Sunray",
       "commanders": [

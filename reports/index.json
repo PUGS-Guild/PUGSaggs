@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-211013-vml3",
+      "title": "Squire Donovan",
+      "commanders": [
+        "Squire Donovan"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-08-02T01:10:13.000Z",
+      "dateEnd": "2026-08-02T01:57:55.000Z",
+      "dateLabel": "8/1/2026, 9:10:13 PM - 8/1/2026, 9:57:55 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260801-211013-vml3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260725-213941-156q",
       "title": "Rosa Streaika",
       "commanders": [

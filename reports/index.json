@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-215624-6z02",
+      "title": "Gallagher Moonblade",
+      "commanders": [
+        "Gallagher Moonblade"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-08-09T01:56:24.000Z",
+      "dateEnd": "2026-08-09T02:56:42.000Z",
+      "dateLabel": "8/8/2026, 9:56:24 PM - 8/8/2026, 10:56:42 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260808-215624-6z02",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260801-211013-vml3",
       "title": "Squire Donovan",
       "commanders": [

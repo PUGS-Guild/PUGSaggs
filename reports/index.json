@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260905-213413-eyab",
+      "title": "Squire Donovan",
+      "commanders": [
+        "Squire Donovan"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-09-06T01:34:13.000Z",
+      "dateEnd": "2026-09-06T02:39:15.796Z",
+      "dateLabel": "9/5/2026, 9:34:13 PM - 9/5/2026, 10:39:15 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20260905-213413-eyab",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260829-220025-7f6a",
       "title": "Lucana Dragonheart",
       "commanders": [

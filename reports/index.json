@@ -1,9 +1,47 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261003-215049-4aof",
+      "title": "Ryza Fayth",
+      "commanders": [
+        "Ryza Fayth"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-10-04T01:50:49.000Z",
+      "dateEnd": "2026-10-04T03:08:00.547Z",
+      "dateLabel": "10/3/2026, 9:50:49 PM - 10/3/2026, 11:08:00 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20261003-215049-4aof",
+      "summary": {
+        "borderlandsPct": 0.36363636363636365,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 31
+      }
+    },
     {
       "id": "20260926-222044-geev",
       "title": "Lileas Sunray",

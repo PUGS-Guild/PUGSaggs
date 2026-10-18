@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.3"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261017-214532-ujr2",
+      "title": "Lileas Sunray",
+      "commanders": [
+        "Lileas Sunray"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-10-18T01:45:32.000Z",
+      "dateEnd": "2026-10-18T02:58:41.751Z",
+      "dateLabel": "10/17/2026, 9:45:32 PM - 10/17/2026, 10:58:41 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20261017-214532-ujr2",
+      "publishedBy": "PUGS-Guild",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 53
+      }
+    },
     {
       "id": "20261010-215158-8h13",
       "title": "Gallagher Moonblade",

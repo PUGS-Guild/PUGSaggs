@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261031-221824-v3yc",
+      "title": "Rosa Streaika",
+      "commanders": [
+        "Rosa Streaika"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-11-01T02:18:24.000Z",
+      "dateEnd": "2026-11-01T03:06:27.526Z",
+      "dateLabel": "10/31/2026, 10:18:24 PM - 10/31/2026, 11:06:27 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20261031-221824-v3yc",
+      "publishedBy": "PUGS-Guild",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20261024-212041-6pcm",
       "title": "Ryza Fayth",

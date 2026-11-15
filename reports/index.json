@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261114-211303-0aka",
+      "title": "Lileas Sunray",
+      "commanders": [
+        "Lileas Sunray"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-11-15T02:13:03.000Z",
+      "dateEnd": "2026-11-15T04:13:53.531Z",
+      "dateLabel": "11/14/2026, 9:13:03 PM - 11/14/2026, 11:13:53 PM",
+      "url": "https://PUGS-Guild.github.io/PUGSaggs/?report=20261114-211303-0aka",
+      "publishedBy": "PUGS-Guild",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 4,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 49
+      }
+    },
     {
       "id": "20261107-205344-s98o",
       "title": "Rosa Streaika",
